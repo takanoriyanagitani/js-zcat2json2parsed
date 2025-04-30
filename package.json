@@ -1,0 +1,12 @@
+{
+  "name": "js-zcat2json2parsed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zcat2json2parsed.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0"
+}
